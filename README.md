@@ -1,3 +1,4 @@
+ 
 <p align="center">
     <a> <img src=.assets/logo.png></a>
     <br />
@@ -16,7 +17,7 @@
 </p>
 
 <h1 align="center">
-	This is a little showcase
+	This is a little showcase, nya <3
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
