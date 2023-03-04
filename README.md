@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">
-	I love you, nya <3
+	I love, nya <3
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
